@@ -222,3 +222,4 @@ owners:
 
     if any((add_owners, add_config_ref)):
         path.write_text(content)
+

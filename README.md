@@ -8,6 +8,6 @@
 
 AFTAPDex is a discord bot where you can trade and attack [AFTAP](https://www.youtube.com/@FuntimesPosts) characters.
 
-You can invite the bot [here](https://discord.com/api/oauth2/authorize?client_id=999736048596816014&permissions=537193536&scope=bot%20applications.commands).
+You can invite the bot not yet.
 
 This bot is a fork of [ballsdex](https://github.com/laggron42/BallsDex-DiscordBot)
